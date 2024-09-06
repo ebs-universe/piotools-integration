@@ -1,0 +1,8 @@
+{
+    "name": "tool-ebs",
+    "version": "1.0.0",
+    "description": "EBS tools integration for PlatformIO.",
+    "system": ["linux_x86_64", "windows_x86_64", "darwin_x86_64"],
+    "keywords": ["fpv-gcc", "tool", "memory", "footprint"],
+    "dependencies": []
+}
